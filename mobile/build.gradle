@@ -46,7 +46,7 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp:2.0.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.squareup.retrofit:retrofit:1.9.0'
-    compile 'org.springframework.android:spring-android-rest-template:2.0.0.M1'
+    compile 'org.springframework.android:spring-android-rest-template:2.0.0.M3'
     compile 'org.parceler:parceler-api:0.2.16'
     compile 'frankiesardo:icepick:3.0.2'
     compile 'com.andreabaccega:android-form-edittext:1.1.0@aar'
