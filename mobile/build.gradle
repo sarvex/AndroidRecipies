@@ -55,7 +55,7 @@ dependencies {
     provided 'org.parceler:parceler:0.2.16'
     provided 'frankiesardo:icepick-processor:3.0.2'
 
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.2'
     testCompile 'org.robolectric:robolectric:2.4'
 
     androidTestCompile 'com.android.support:multidex-instrumentation:1.0.0'
