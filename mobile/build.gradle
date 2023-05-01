@@ -50,7 +50,7 @@ dependencies {
     compile 'org.parceler:parceler-api:0.2.16'
     compile 'frankiesardo:icepick:3.0.2'
     compile 'com.andreabaccega:android-form-edittext:1.1.0@aar'
-    compile 'org.jetbrains.kotlin:kotlin-stdlib:0.11.91'
+    compile 'org.jetbrains.kotlin:kotlin-stdlib:0.14.451'
 
     provided 'org.parceler:parceler:0.2.16'
     provided 'frankiesardo:icepick-processor:3.0.2'
