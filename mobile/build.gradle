@@ -52,7 +52,7 @@ dependencies {
     compile 'com.andreabaccega:android-form-edittext:1.1.0@aar'
     compile 'org.jetbrains.kotlin:kotlin-stdlib:0.11.91'
 
-    provided 'org.parceler:parceler:0.2.16'
+    provided 'org.parceler:parceler:1.1.13'
     provided 'frankiesardo:icepick-processor:3.2.0'
 
     testCompile 'junit:junit:4.13.2'
